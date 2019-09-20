@@ -16,6 +16,8 @@
 
 ![imresizer com (2)](https://user-images.githubusercontent.com/34116562/65319984-8a2d3b00-dbbe-11e9-9e12-c82a1859c881.jpg)
 
+#### Advantages:- 
+
 ##### -- Very long look back.
 ##### -- Train Faster.
 
