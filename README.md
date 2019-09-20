@@ -37,6 +37,7 @@
 
 #### Training is quick because at each time step it knows what the next sample is going to be.
 
-#### https://github.com/ibab/tensorflow-wavenet This approach requires a dataset download of 10 gb.
+#### https://github.com/ibab/tensorflow-wavenet This approach requires a dataset download of 10 gb and uses tensorflow.
+#### https://github.com/basveeling/wavenet Keras Implementation.
 #### https://github.com/peustr/wavenet Colab disconnects again and again in this.
 #### Link to the Research Paper: https://arxiv.org/pdf/1609.03499.pdf
