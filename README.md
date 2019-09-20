@@ -1,6 +1,7 @@
 # Wavenet-Implementation
 
-## It is a Text to Speech 
+## It is a Deep neural network for generating raw audio waveforms. The prediction of each audio sample is conditioned on the previous ones. When applied as a Text to Speech Model, it yields state of the art performance with human listeners rating it as more natural than actual voice.
+
 #### Starting with Wavenet
 
 #### Main Features:
